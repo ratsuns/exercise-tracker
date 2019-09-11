@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Connect MongoDB`
 
-Create (.env) file in (backend folder) and add the following line to it
+Create (.env) file in (backend folder) and add the following line to it <br>
 ATLAS_URI=*copy-from-mongo-db-connect-to-database-link*
 
 ### `npm start`

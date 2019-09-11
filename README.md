@@ -2,12 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-### `npm install` (root folder + backend folder)
-
-### `Connect MongoDB`
-
-Create **.env** file in **backend folder** and add the following line to it <br>
-*ATLAS_URI=**copy-from-mongo-db-connect-to-database-link***
+### `Create .env file`
+In the **Backend** folder and add in your database credentials that connect your database.<br>
+ATLAS_URI=**link-from-your-database**
 
 ### `npm start`
 
@@ -17,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 ### `Stop Frontend and Backend Server`
-Press ctrl + c in the terminal where the servers are running - (on mac)
+Press **ctrl + c** in the terminal where the servers are running - (on mac)
 
 ### `npm test`
 

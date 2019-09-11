@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-### `npm install root and npm install backend folder`
+### `npm install` (root folder + backend folder)
 
 ### `Connect MongoDB database with .env file`
 

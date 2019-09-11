@@ -1,9 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
 ### `npm install root and npm install backend folder`
 
 ### `Connect MongoDB database with .env file`
+
 ATLAS_URI=<copy from mongo db connect to database link>
 
 ### `npm start`

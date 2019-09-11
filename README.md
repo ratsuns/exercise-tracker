@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### `Create .env file`
+In the **Backend** folder
+And add in your database credentials that connect
+ATLAS_URI=**link-from-your-database**
+
 ### `npm start`
 
 Runs the app in the development mode in the root directory.<br>

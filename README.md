@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+
+
+
+
 ### `Create .env file`
 In the **Backend** folder test and add in your database credentials that connect your database.<br>
 ATLAS_URI=**link-from-your-database**

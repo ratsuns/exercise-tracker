@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the **Backend** folder add in your database credentials that connect your database.<br>
 ATLAS_URI=**link-from-your-database**
 
+### `npm install`
+npm install in the root directory
+
+### `npm install`
+In the **Backend** directory run npm install 
+
 ### `npm start`
 
 Runs the app in the development mode in the root directory.<br>

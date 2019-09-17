@@ -1,9 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+### `Create Mongo DB-Atlas account`
+Create a cluster
+Add your IP to network access
+Clusters > Connect > Connect Your Application > Copy "Connection String only" (This will be used in your .env file)
 
 ### `Create .env file`
-In the **Backend** folder add in your database credentials that connect your database.<br>
+In the **Backend** folder add in your database credentials that connect to your database cluster.<br>
 ATLAS_URI=**link-from-your-database**
 
 ### `npm install`

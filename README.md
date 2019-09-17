@@ -7,12 +7,13 @@ In the **Backend** folder add in your database credentials that connect your dat
 ATLAS_URI=**link-from-your-database**
 
 ### `npm install`
-npm install in the root directory
+In the root directory **npm install** 
 
 ### `npm install`
-In the **Backend** directory run npm install 
+In the **Backend** directory run **npm install** 
 
 ### `npm start`
+Go to the root directory of your app
 
 Runs the app in the development mode in the root directory.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

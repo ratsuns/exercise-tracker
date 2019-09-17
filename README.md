@@ -13,7 +13,7 @@ Navigate to: Clusters > Connect > Connect Your Application > Copy "Connection St
 ### `Create .env file`
 In the **Backend** folder add in your database credentials that connect to your database cluster.<br>
 <br>It should look similiar to this:
-<br>ATLAS_URI=mongodb+srv://**MongoDB-User**:**password**@name-of-your-app.mongodb.net/test?retryWrites=true&w=majority
+<br>ATLAS_URI=mongodb+srv://**MongoDB-User**:**Password**@**name-of-your-app**.mongodb.net/test?retryWrites=true&w=majority
 
 ### `npm install`
 In the root directory **npm install** 

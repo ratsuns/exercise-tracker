@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `Create Mongo DB-Atlas account`
 Create a cluster
 Add your IP to network access
+<br>
 Clusters > Connect > Connect Your Application > Copy "Connection String only" (This will be used in your .env file)
 
 ### `Create .env file`

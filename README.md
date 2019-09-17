@@ -4,13 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `Create Mongo DB-Atlas account`
 Create a cluster
 <br>
+Create a MongoDB User and Password
+<br>
 Add your IP to network access
 <br>
-Clusters > Connect > Connect Your Application > Copy "Connection String only" (This will be used in your .env file)
+Navigate to: Clusters > Connect > Connect Your Application > Copy "Connection String only" (This will be used in your .env file)
 
 ### `Create .env file`
 In the **Backend** folder add in your database credentials that connect to your database cluster.<br>
-ATLAS_URI=**link-from-your-database**
+<br>It should look similiar to this:
+<br>ATLAS_URI=mongodb+srv://**MongoDB-User**:**password**@name-of-your-app.mongodb.net/test?retryWrites=true&w=majority
 
 ### `npm install`
 In the root directory **npm install** 
@@ -19,7 +22,7 @@ In the root directory **npm install**
 In the **Backend** directory run **npm install** 
 
 ### `npm start`
-Go to the root directory of your app
+In the root directory of the app run **npm start**
 
 Runs the app in the development mode in the root directory.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

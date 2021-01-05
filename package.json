@@ -8,7 +8,7 @@
   "license": "MIT",
   "homepage": "https://github.com/ratsuns/exercise-tracker#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "concurrently": "^4.1.2",
     "npm-check": "^5.9.0",
